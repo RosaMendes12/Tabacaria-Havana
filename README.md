@@ -12,11 +12,17 @@ Nota: Este é um projeto educacional e não promove o consumo de tabaco.
 🛠️ Tecnologias Utilizadas
 
 Frontend
+
 React 19 - Biblioteca JavaScript para interfaces
+
 Vite - Build tool e dev server
+
 Axios - Cliente HTTP para requisições
+
 CSS - Estilização customizada
+
 Backend
+
 Spring Boot 3.5.13 - Framework Java
 Java 17 - Linguagem de programação
 Spring Data JPA - Persistência de dados
