@@ -4,6 +4,7 @@ Projeto Tabacaria Senai
 Um sistema completo de tabacaria com frontend React e backend Spring Boot, desenvolvido como projeto final do curso Senai.
 
 📋 Descrição
+
 Este projeto consiste em uma aplicação web para uma tabacaria, com funcionalidades de loja online, gerenciamento de produtos e clientes. O frontend permite navegação de produtos, carrinho de compras, favoritos e cadastro de clientes, enquanto o backend fornece APIs REST para gerenciamento de dados.
 
 Nota: Este é um projeto educacional e não promove o consumo de tabaco.
