@@ -48,16 +48,16 @@ Maven (versão 3.6 ou superior)
 🚀 Instalação
 
 1. Clone o repositório
-2. 
-3. Configuração do Banco de Dados
+  
+2. Configuração do Banco de Dados
 
-4.Instale e inicie o MySQL
+3.Instale e inicie o MySQL
 
 Crie um banco de dados chamado tabacaria:
 
 Execute o script DDL para criar as tabelas:
 
-5. Configuração do Backend
+4. Configuração do Backend
    
 Navegue para a pasta do backend:
 
