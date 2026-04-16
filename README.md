@@ -11,7 +11,7 @@ Nota: Este é um projeto educacional e não promove o consumo de tabaco.
 
 🛠️ Tecnologias Utilizadas
 
-Frontend
+##Frontend
 
 React 19 - Biblioteca JavaScript para interfaces
 
@@ -21,7 +21,7 @@ Axios - Cliente HTTP para requisições
 
 CSS - Estilização customizada
 
-Backend
+##Backend
 
 Spring Boot 3.5.13 - Framework Java
 
