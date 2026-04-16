@@ -74,49 +74,90 @@ Execute o projeto:
 O frontend estará rodando em http://localhost:5173
 
 📁 Estrutura do Projeto
+
 ✨ Funcionalidades
+
 Frontend (Loja Online)
+
 Navegação de Produtos: Visualização de produtos disponíveis
+
 Carrinho de Compras: Adicionar/remover produtos, calcular total
+
 Sistema de Favoritos: Salvar produtos preferidos
-Cadastro de Clientes: Formulário com validação (CPF, telefone, CEP)
+
+Cadastro de Clientes: Formulário com validação (CPF, telefone, CEP
+
 Gerenciamento de Clientes: Listar, editar e excluir clientes cadastrados
-Interface Responsiva: Design adaptável para diferentes dispositivos
+
+Interface Responsiva: Design adaptável para diferentes 
+
 Backend (APIs REST)
+
 Gerenciamento de Produtos: CRUD completo (Criar, Ler, Atualizar, Deletar)
+
 Gerenciamento de Clientes: CRUD completo
+
 Busca por Nome: Filtrar produtos por nome
+
 Validação de Dados: Constraints no banco de dados
-CORS Configurado: Permite requisições do frontend
+
+CORS Configurado: Permite requisições do 
+
 🔗 API Endpoints
+
 Produtos
+
 GET /produtos - Listar todos os produtos
+
 GET /produtos/{id} - Buscar produto por ID
+
 GET /produtos/nome/{nome} - Buscar produtos por nome
+
 POST /produtos - Criar novo produto
+
 PUT /produtos/{id} - Atualizar produto
+
 DELETE /produtos/{id} - Deletar produto
+
 Clientes
 GET /clientes - Listar todos os clientes
+
 GET /clientes/{id} - Buscar cliente por ID
+
 POST /clientes - Criar novo cliente
+
 DELETE /clientes/{id} - Deletar cliente
+
 🧪 Testando a Aplicação
+
 Acesse o frontend em http://localhost:5173
+
 Navegue pelos produtos e adicione ao carrinho
+
 Cadastre um cliente usando o formulário
+
 Gerencie produtos através do componente Produtos (se integrado)
+
 Verifique os dados no banco MySQL
+
 🤝 Contribuição
+
 Fork o projeto
+
 Crie uma branch para sua feature (git checkout -b feature/nova-feature)
+
 Commit suas mudanças (git commit -am 'Adiciona nova feature')
+
 Push para a branch (git push origin feature/nova-feature)
+
 Abra um Pull Request
+
 📝 Licença
+
 Este projeto é para fins educacionais e não possui licença específica.
 
 👥 Desenvolvedores
+
 Projeto desenvolvido como trabalho final do curso Senai.
 
 Atenção: Este projeto é puramente educacional e visa demonstrar conceitos de desenvolvimento web full-stack. Não promove nem incentiva o consumo de produtos derivados do tabaco.
