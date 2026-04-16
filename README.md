@@ -24,29 +24,50 @@ CSS - Estilização customizada
 Backend
 
 Spring Boot 3.5.13 - Framework Java
-Java 17 - Linguagem de programação
+
+Java 17 - Linguagem de 
+
 Spring Data JPA - Persistência de dados
-MySQL - Banco de dados
-Lombok - Redução de código boilerplate
-Maven - Gerenciamento de dependências
+
+MySQL - Banco de 
+
+Lombok - Redução de código 
+
+Maven - Gerenciamento de 
+
 📋 Pré-requisitos
-Node.js (versão 18 ou superior)
-Java 17 (JDK)
+
+Node.js (versão 18 ou superior
+
+Java 17 (JDK
+
 MySQL (versão 8.0 ou superior)
+
 Maven (versão 3.6 ou superior)
+
 🚀 Instalação
+
 1. Clone o repositório
-2. Configuração do Banco de Dados
-Instale e inicie o MySQL
+2. 
+3. Configuração do Banco de Dados
+
+4.Instale e inicie o MySQL
+
 Crie um banco de dados chamado tabacaria:
+
 Execute o script DDL para criar as tabelas:
-3. Configuração do Backend
+
+5. Configuração do Backend
+   
 Navegue para a pasta do backend:
+
 Configure as credenciais do banco no application.properties:
-Execute o projeto:
+
+Execute o projeto
+
 O backend estará rodando em http://localhost:8080
 
-4. Configuração do Frontend
+7. Configuração do Frontend
 Em outro terminal, navegue para a pasta do frontend:
 Instale as dependências:
 Execute o projeto:
