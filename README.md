@@ -10,6 +10,7 @@ Este projeto consiste em uma aplicação web para uma tabacaria, com funcionalid
 Nota: Este é um projeto educacional e não promove o consumo de tabaco.
 
 🛠️ Tecnologias Utilizadas
+
 Frontend
 React 19 - Biblioteca JavaScript para interfaces
 Vite - Build tool e dev server
